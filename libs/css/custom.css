@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+.left-margin{
+    margin:0 .5em 0 0;
+}
+ 
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+ 
+/* some changes in bootstrap modal */
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+ 
+.modal-footer{
+    text-align: center !important;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.gi-2x {
+	font-size: 2em;
+	margin-right: 5px;
+	color: #62645e;
+}
+
+.glyphicon.glyphicon-remove.gi-2x {
+	font-size: 2em;
+	margin-right: 5px;
+	color: red;
+	cursor: pointer;
+}
+
